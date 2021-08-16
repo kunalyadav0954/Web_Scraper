@@ -5,3 +5,7 @@ Download images from google based on a specific search term.
  - Through the terminal or command line, run `python scraper.py`
  - You'll be prompted to enter search term(replace spaces with '+' while entering), and number of images you wish to download
  - After this the images will be downloaded
+ 
+# Requirements
+ - requests
+ - bs4(BeautifulSoup4)
